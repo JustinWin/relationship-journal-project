@@ -1,1 +1,1 @@
-# girlfriend-appreciation-project
+# relationship-journal-project
